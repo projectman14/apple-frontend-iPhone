@@ -22,10 +22,6 @@ canvas {
   touch-action: none;
 }
 
-.abc{
-  color: red;
-}
-
 .screen-max-width {
   margin-inline-start: auto;
   margin-inline-end: auto;
