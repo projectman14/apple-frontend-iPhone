@@ -22,6 +22,10 @@ canvas {
   touch-action: none;
 }
 
+.container-abs {
+  display: flex;
+}
+
 .screen-max-width {
   margin-inline-start: auto;
   margin-inline-end: auto;
